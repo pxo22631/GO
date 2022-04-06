@@ -36,7 +36,7 @@ func testScanfStuff() {
 
 func main() {
 
-	// testScanfStuff()
+	// hello testScanfStuff()
 
 	connStr := "user=postgres dbname=Orders password=Liverpool99  host=localhost sslmode=disable"
 	//driver name part of "github.com/lib/pq"
